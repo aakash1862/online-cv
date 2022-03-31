@@ -1,4 +1,3 @@
 <body>
-    <a href="CV_AakashDixit_DevOps_.pdf" download>DevOps</a>
-    <a href="CV_AakashDixit.pdf" download>General</a>
+    <a href="CV_AakashDixit_DevOps_.pdf" download>Download my CV for DevOps Role</a>
 </body>
